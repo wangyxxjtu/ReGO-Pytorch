@@ -53,7 +53,7 @@ python fid.py GT_PATH OURPUR_DIR --gen_mode 'gen' --gpu GPU_ID
 #calculate IS
 CUDA_VISIBLE_DEVICES=GPU_ID python eval_fid_is_score.py --gen_image_path OUTPUT_DIR --use_gpus 0 --gen_mode 'gen' 
 ```
-or edit the test.sh and run ```sh eval.sh```
+or edit the eval.sh and run ```sh eval.sh```
 
 ## Acknowledge
 This project is built on the top of this code: [Boundless](https://github.com/recong/Boundless-in-Pytorch). Thanks the authors' contribution.
