@@ -4,7 +4,8 @@ pytorch implementation of ReGO: Reference-Guided Outpainting for Scenery Image.
 Note: we only release the code of our Best model: BDIE with ReGO equipped i.e., ReGO<sub>BDIE.
 
 The framework of our ReGO:
-<img src="https://github.com/wangyxxjtu/ReGO-Pytorch/tree/master/images/framework.png" width="745" alt="workflow" />
+
+<img src="https://github.com/wangyxxjtu/ReGO-Pytorch/tree/master/images/framework.png" width="745" alt="framework" />
 
 ## Requirements
 
