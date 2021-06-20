@@ -5,7 +5,7 @@ Note: we only release the code of our Best model: BDIE with ReGO equipped i.e., 
 
 The framework of our ReGO:
 
-<img src="https://github.com/wangyxxjtu/ReGO-Pytorch/tree/master/images/framework.png" width="745" alt="framework" />
+<img src="https://github.com/wangyxxjtu/ReGO-Pytorch/blob/master/images/framework.png" width="745" alt="framework" />
 
 ## Requirements
 
