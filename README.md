@@ -13,7 +13,7 @@ Our proposed Adaptive Content Selective Moduel(ACS):
 
 Examplar outputs of our model:
 
-<img src="https://github.com/wangyxxjtu/ReGO-Pytorch/blob/master/images/show.png" width="745" alt="framework" />
+<img src="https://github.com/wangyxxjtu/ReGO-Pytorch/blob/master/images/show.png" width="845" alt="framework" />
 
 
 ## Requirements
