@@ -5,7 +5,7 @@ Note: we only release the code of our Best model: BDIE with ReGO equipped i.e., 
 
 The framework of our ReGO:
 
-<img src="https://github.com/wangyxxjtu/ReGO-Pytorch/blob/master/images/framework.png width="845" alt="framework" />
+<img src="https://github.com/wangyxxjtu/ReGO-Pytorch/blob/master/images/framework.png" width="845" alt="framework" />
 
 Our proposed Adaptive Content Selective Moduel(ACS):
 
