@@ -8,10 +8,11 @@ The framework of our ReGO:
 <img src="./images/framework.png" width="845" alt="framework" />
 
 Our proposed Adaptive Content Selective Moduel(ACS):
-
+  
 <img src="./images/ReGO.png" width="745" alt="framework" />
   
 Examplar outputs of our model:
+  
 <img src="./images/show.png" width="885" alt="framework" />
 
 ## Requirements
