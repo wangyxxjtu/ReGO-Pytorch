@@ -4,19 +4,17 @@ pytorch implementation of ReGO: Reference-Guided Outpainting for Scenery Image.
 Note: we only release the code of our Best model: BDIE with ReGO equipped i.e., ReGO<sub>BDIE.
 
 The framework of our ReGO:
-[^_^]:
-  <img src="https://github.com/wangyxxjtu/ReGO-Pytorch/blob/master/images/framework.png" width="845" alt="framework" />
+
+[comment]: <> <img src="https://github.com/wangyxxjtu/ReGO-Pytorch/blob/master/images/framework.png" width="845" alt="framework" />
 <img src="https://anonymous.4open.science/r/ReGO-Pytorch-A2D9/images/framework.png" width="845" alt="framework" />
 
 Our proposed Adaptive Content Selective Moduel(ACS):
 
-[^_^]:
-  <img src="https://github.com/wangyxxjtu/ReGO-Pytorch/blob/master/images/ReGO.png" width="745" alt="framework" />
+[comment]: <> <img src="https://github.com/wangyxxjtu/ReGO-Pytorch/blob/master/images/ReGO.png" width="745" alt="framework" />
 <img src="https://anonymous.4open.science/r/ReGO-Pytorch-A2D9/images/ReGO.png" width="745" alt="framework" />
   
 Examplar outputs of our model:
-[^_^]:
-  <img src="https://github.com/wangyxxjtu/ReGO-Pytorch/blob/master/images/show.png" width="885" alt="framework" />
+[comment]: <> <img src="https://github.com/wangyxxjtu/ReGO-Pytorch/blob/master/images/show.png" width="885" alt="framework" />
 <img src="https://anonymous.4open.science/r/ReGO-Pytorch-A2D9/images/show.png" width="885" alt="framework" />
 
 ## Requirements
