@@ -9,7 +9,7 @@ The framework of our ReGO:
 
 Our proposed Adaptive Content Selective Moduel(ACS):
 
-<img src="https://github.com/wangyxxjtu/ReGO-Pytorch/blob/master/images/ReGO.png" width="745" alt="framework" />
+<img src="./blob/master/images/ReGO.png" width="745" alt="framework" />
 
 Examplar outputs of our model:
 
