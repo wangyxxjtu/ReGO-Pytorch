@@ -1,5 +1,5 @@
 #--------------------------------
-#author: Yaxiong Wang
+#author: xxx
 #code for our paper: ReGO: Reference-Guided Outpainting for Scenery Image
 
 #Our code is built on the top of this project: https://github.com/recong/Boundless-in-Pytorch, 
